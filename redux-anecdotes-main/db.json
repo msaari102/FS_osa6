@@ -34,6 +34,16 @@
       "content": "I don't like this",
       "votes": 2,
       "id": "egOD5yU"
+    },
+    {
+      "content": "New test",
+      "votes": 0,
+      "id": "8mZmhp9"
+    },
+    {
+      "content": "New test 2",
+      "votes": 2,
+      "id": "J_KYBes"
     }
   ]
 }
